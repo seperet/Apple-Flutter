@@ -1,19 +1,8 @@
-# flutter_application_1
+# Apple-Flutter
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 ![Ekran görüntüsü 2023-07-01 201847](https://github.com/seperet/Apple-Flutter/assets/91972196/4624e0e7-f9ed-4243-84af-e4113a621495)
 ![Ekran görüntüsü 2023-07-01 201909](https://github.com/seperet/Apple-Flutter/assets/91972196/ed3717a3-f9e3-4e84-acaf-74a612a9c28b)
