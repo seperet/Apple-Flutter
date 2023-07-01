@@ -7,7 +7,9 @@ Desktop Desing
 ![Ekran görüntüsü 2023-07-01 201847](https://github.com/seperet/Apple-Flutter/assets/91972196/4624e0e7-f9ed-4243-84af-e4113a621495)
 ![Ekran görüntüsü 2023-07-01 201909](https://github.com/seperet/Apple-Flutter/assets/91972196/ed3717a3-f9e3-4e84-acaf-74a612a9c28b)
 ![Ekran görüntüsü 2023-07-01 201926](https://github.com/seperet/Apple-Flutter/assets/91972196/de14c977-66d0-4133-9c00-01ea58e87492)
+
 Mobile Desing
+
 ![Ekran görüntüsü 2023-07-01 202008](https://github.com/seperet/Apple-Flutter/assets/91972196/6a68e89b-4a6f-4947-9a42-0d91d2718812)
 ![Ekran görüntüsü 2023-07-01 202059](https://github.com/seperet/Apple-Flutter/assets/91972196/87b7fae0-f70d-4e46-8bca-0d1836bce2c9)
 ![Ekran görüntüsü 2023-07-01 202113](https://github.com/seperet/Apple-Flutter/assets/91972196/232ab138-4a7c-47c9-992f-4cd92e2f2887)
